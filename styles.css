@@ -77,9 +77,7 @@ img {
     transition: background-color 0.3s ease;
 }
 
-.btn-primary:hover {
-    background-color: #e06c13;
-}
+
 
 section {
     padding: 80px 0;
@@ -126,7 +124,7 @@ section {
     margin-right: 5px;
 }
 
-/* --- Hero Section --- */
+
 /* --- Banner Section --- */
 .banner {
     
@@ -182,7 +180,7 @@ section {
 }
 
 
-/* --- Feature Section --- */
+/* --- Flower Section --- */
 
 
 .flower-container {
